@@ -1,0 +1,5 @@
+AI-Driven Multi-Store Demand Forecasting System | Jan 2025
+Business Problem: Pharmacy chains faced 40%+ stockouts and significant wastage due to unpredictable SKU-level demand across stores, with traditional ARIMA models failing to capture seasonality and store-item interactions.
+Business Solution: Developed end-to-end deep learning platform using CNN-LSTM architecture with trend-seasonality features for 500+ SKU forecasts. Deployed real-time FastAPI backend and interactive Streamlit dashboard for 30-day demand predictions.
+Achievements: Achieved 16.49% MAPE (35% better than ARIMA baseline) • Reduced stockouts by 40% and wastage by 30% • Generated $150K annual savings • Accelerated decisions by 90% through automated workflows.
+Tech Stack: Python, TensorFlow/Keras, CNN-LSTM, FastAPI, Streamlit, Pandas, NumPy, Plotly, Docker
